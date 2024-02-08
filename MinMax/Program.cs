@@ -22,6 +22,10 @@ namespace MinMax
             Console.WriteLine("Max int = " + Int32.MaxValue);
             Console.WriteLine("Min uint = " + UInt32.MinValue);
             Console.WriteLine("Max uint = " + UInt32.MaxValue);
+            Console.WriteLine("Min long = " + Int64.MinValue);
+            Console.WriteLine("Max long = " + Int64.MaxValue);
+            Console.WriteLine("Min ulong = " + UInt64.MinValue);
+            Console.WriteLine("Max ulong = " + UInt64.MaxValue);
         }
     }
 }
