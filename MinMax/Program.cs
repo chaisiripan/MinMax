@@ -11,6 +11,7 @@ namespace MinMax
         static void Main(string[] args)
         {
             Console.WriteLine("Min sbyte = " + SByte.MinValue);
+            Console.WriteLine("Max sbyte = " + SByte.MaxValue);
         }
     }
 }
